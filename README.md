@@ -20,19 +20,19 @@ The flow of the project is as follows -
 
 5. Finally we try to build a machine learning model that can predict if an indivisual's application for a credit card will be accepted or not ?
 
-## Repository Structure 
+## Repository Structure
 
-Repositorty Credit_Card_Approval_Predictor contains - 
+Repositorty Credit_Card_Approval_Predictor contains -
 
 * <code>final_notebook.ipynb</code> -- The main jupyter notebook.    
 
 * <code>README.md</code>  -- The readme file for this repository.   
 
 * <code>data</code> -- The dataset folder which contains <code>cc_approvals.data</code> dataset.    
-	     
+
 ## Packages   
 
-The ipython notebook uses python 3 (https://www.python.org/download/releases/3.0/) and the folowing python packages: 
+The ipython notebook uses python 3 (https://www.python.org/download/releases/3.0/) and the folowing python packages:
 
 * numpy == 1.18.5     
 * pandas == 1.0.5        
@@ -42,11 +42,8 @@ The ipython notebook uses python 3 (https://www.python.org/download/releases/3.0
 
 ## What makes this interesting ?        
 
-* This project is interesting to me as it gives me a taste of the real world data. 
+* This project is interesting to me as it gives me a taste of the real world data.
 
 * Since the data was sensitive, its anonymized and I had to research through articles to understand how to deal with such data.   
 
 * I had to deal with some of the most widely-known preprocessing steps such as scaling, label encoding, and missing value imputation.    
-
-
-
