@@ -8,8 +8,8 @@ The dataset we are using for this project is from the UCI Machine Learning Repos
 
 The structure of the notebook is as follows -
 
-Load and inspect the dataset
-Explore the numerical and non-numerical features that the notebook has. In addition, as mentioned in the dataset description we have to deal with values having different ranges and the missing values.
-Preprocess the model to ensure the machine learning model we choose can make good predictions.
-After preprocessing is complete, we need to do some EDA or Exploratory Data Analysis to build our intuition.
-Finally we try to build a machine learning model that can predict if an indivisual's application for a credit card will be accepted or not ?
+Load and inspect the dataset. 
+Explore the numerical and non-numerical features that the notebook has. In addition, as mentioned in the dataset description we have to deal with values having different ranges and the missing values.  
+Preprocess the model to ensure the machine learning model we choose can make good predictions.  
+After preprocessing is complete, we need to do some EDA or Exploratory Data Analysis to build our intuition.  
+Finally we try to build a machine learning model that can predict if an indivisual's application for a credit card will be accepted or not ?  
