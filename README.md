@@ -28,7 +28,9 @@ Repositorty Credit_Card_Approval_Predictor contains -
 
 * <code>README.md</code>  -- The readme file for this repository.   
 
-* <code>data</code> -- The dataset folder which contains <code>cc_approvals.data</code> dataset.    
+* <code>data</code> -- The dataset folder which contains <code>cc_approvals.data</code> dataset.   
+
+* <code>LICENSE</code>  -- The MIT LICENSE File for this repository. 
 
 ## Packages   
 
